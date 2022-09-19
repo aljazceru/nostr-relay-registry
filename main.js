@@ -27,7 +27,8 @@ const App = {
         'wss://nostr.zaprite.io',
         'wss://nostr.oxtr.dev',
         'wss://nostr.ono.re',
-        'wss://relay.cynsar.foundation'
+        'wss://relay.cynsar.foundation',
+        'wss://rsslay.nostr.net'        
       ],
       status: {}
     }
